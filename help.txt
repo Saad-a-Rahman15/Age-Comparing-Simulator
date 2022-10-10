@@ -1,0 +1,6 @@
+So, you have to start with entering your
+first name and insert their age. You put
+the age of the person and you have to do
+it three times as shown. Finally, it 
+will tell you who is the oldest. And that
+is how you do the game.
